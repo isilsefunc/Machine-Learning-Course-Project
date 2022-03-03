@@ -1,4 +1,4 @@
-# Machiene-Learning-Course-Project
+# Machine-Learning-Course-Project
 Predicted the JobSatisfaction of a Kaggler, given their job description, level etc.
 
 Contributors:
